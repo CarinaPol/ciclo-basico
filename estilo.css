@@ -1,6 +1,6 @@
 .imagen_cb{
     /*imagen de fondo 1era parte del cuerpo*/
-    background-image: url(/imagen/fondo_cb.jpg);
+    background-image: url(fondo_cb.jpg);
     background-size: cover;
 }
 
